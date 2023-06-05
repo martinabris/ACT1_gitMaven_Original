@@ -1,4 +1,5 @@
-# ACT1_gitMaven_Original
-# Repositorio clonado basado en el búsqueda de "proyecto Maven"
-# Esta es la copia del repositorio original de forma que se pueda ver el "Antes" y el "Después" 
-# Este repositorio es el "Antes"
+# bootcampJavaAngular_u20_ej9_team5
+proyectos Maven: juego Memoria (Isidre, Veronika, Marc)
+
+Este repositorio contiene el ejercicio 9 resuelto de la unidad 20.  
+El tema: MAVEN.
